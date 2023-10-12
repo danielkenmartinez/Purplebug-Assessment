@@ -1,0 +1,6 @@
+Custom visuals and shaders ++ 
+-Made custom animations for blocks, characters, etc using animation record and sprite sheet animation using Piskel.
+-Used simple particle setups for breaking blocks, explosion, coin collection.
+ 
+Leaderboards with player names supplied at the end of the game + 
+-Completing the game with a new highscore can be recorded for the top 3. If the score is lower  than the 3, a Game Ober will appear instead of name input
